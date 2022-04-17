@@ -1,0 +1,25 @@
+
+/*//////////  font size normal*/
+@font-face {
+    font-family: 'my-shabnam';
+    font-size: normal;
+    src: url('../fnt/shabnam/Shabnam-FD.woff2'),
+    url('../fnt/shabnam/Shabnam-FD.woff');
+}
+
+
+/*//////////  font size bold*/
+@font-face {
+    font-family: 'my-shabnam';
+    font-size: normal;
+    src: url('../fnt/shabnam/Shabnam-Bold-FD.woff2'),
+    url('../fnt/shabnam/Shabnam-Bold-FD.woff');
+}
+
+/*//////////  font size light*/
+@font-face {
+    font-family: 'my-shabnam';
+    font-size: normal;
+    src: url('../fnt/shabnam/Shabnam-Light-FD.woff2'),
+    url('../fnt/shabnam/Shabnam-Light-FD.woff');
+}
